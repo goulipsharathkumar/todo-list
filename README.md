@@ -1,21 +1,23 @@
-# Advanced To-Do List
+# To-Do List App 📝
 
-A modern, responsive To-Do List app with:
+A modern **To-Do List web application** built using **HTML, CSS, and JavaScript**.  
+Track your daily tasks, switch between dark/light mode, and search/filter tasks easily.  
 
-- ✅ Task creation & deletion  
-- 🌙 Dark/Light mode  
-- 🔍 Search filter  
-- 💾 Offline storage using localStorage  
+## 🌐 Live Demo
+[Click here to see the live app](https://sharthgouli.github.io/todo-list/)
 
----
+## 🛠 Features
+- Add and delete tasks  
+- Dark/Light mode toggle  
+- Search and filter tasks  
+- Tasks saved in **LocalStorage** (persist after page refresh)  
+- Responsive design (works on desktop and mobile)
 
-## 🚀 Live Demo  
-🔗 [Click here to view the app]( https://sharthgouli.github.io/todo-list/)  
+## 💻 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Storage:** LocalStorage  
 
----
-
-## 📦 How to Use
-
-1. Clone the repo:
+## 🚀 How to Run Locally
+1. Clone the repository:
    ```bash
    git clone https://github.com/sharthgouli/todo-list.git
