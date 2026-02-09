@@ -4,7 +4,7 @@ A modern **To-Do List web application** built using **HTML, CSS, and JavaScript*
 Track your daily tasks, switch between dark/light mode, and search/filter tasks easily.  
 
 ## 🌐 Live Demo
-[Click here to see the live app](https://sharthgouli.github.io/todo-list/)
+[Click here to see the live app](https://goulipsharathkumar.github.io/todo-list/)
 
 ## 🛠 Features
 - Add and delete tasks  
